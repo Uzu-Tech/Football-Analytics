@@ -4,7 +4,7 @@ This project analyzes football data using statistical and machine learning metho
 
 ## Features
 
-- Todo
+- Performed a hypothesis test to estimate the difference in win rates between home and away games.
 
 ## Requirements
 
@@ -18,12 +18,13 @@ pip install -r requirements.txt
 
 ```bash
 football-analytics/
-├── main.py        # Main code to run any script
-├── data/          # Input/output data
-├── analysis/      # Classes and functions to perform statstical analysis
+├── analysis/      # Helper Classes and functions to perform statstical analysis
 ├── models/        # Machine learning models
 ├── tests/         # Test files
 └── notebooks/     # Jupyter notebooks for experiments
 README.md      # This file
 requirements.txt # Python dependencies
 ```
+
+### Usage
+To explore the examples of various analyses performed, browse the Jupyter notebooks in the notebooks/ directory.
